@@ -12,13 +12,16 @@
         "Z-turn Lite Zynq 7010 devboard"
     ],
     "entity": "8d5dcd79-5a82-40ff-b1fb-c879a49323cb",
-    "inherit_model": true,
+    "inherit_model": false,
     "inherit_tags": false,
     "manufacturer": [
         false,
         "MYIR"
     ],
-    "model": "00000000-0000-0000-0000-000000000000",
+    "model": "a4be9cfa-4861-41b0-87bb-90860efd3bca",
+    "orderable_MPNs": {
+        "98dde531-43a0-48fa-a2c4-f6c1452d74d4": "MYS-7Z010-L-C-S"
+    },
     "package": "4f36c77b-8e4a-449c-9bc6-3412bd5a5aa7",
     "pad_map": {
         "04f373b3-07f6-47f6-86d8-1563e871e32d": {

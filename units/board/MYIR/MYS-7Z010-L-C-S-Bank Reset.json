@@ -1,6 +1,6 @@
 {
     "manufacturer": "MYIR",
-    "name": "Z-turn Lite Bank Reset",
+    "name": "Z-turn Lite Reset",
     "pins": {
         "c393efee-29fc-485d-9b5c-6a9df156aef3": {
             "direction": "input",

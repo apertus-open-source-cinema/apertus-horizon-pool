@@ -1,6 +1,6 @@
 {
     "manufacturer": "MYIR",
-    "name": "Z-turn Lite Bank Power",
+    "name": "Z-turn Lite Power",
     "pins": {
         "4590c6ed-9f7e-496c-80fd-62b457d8f2c7": {
             "direction": "power_output",
