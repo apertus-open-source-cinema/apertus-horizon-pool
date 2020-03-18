@@ -1,0 +1,14 @@
+{
+    "arcs": {},
+    "can_expand": false,
+    "junctions": {},
+    "lines": {},
+    "name": "Z-turn Lite Bank Reset",
+    "pins": {},
+    "polygons": {},
+    "text_placements": {},
+    "texts": {},
+    "type": "symbol",
+    "unit": "10646e86-cd41-4200-818c-b1c765ff7c56",
+    "uuid": "0ca3f587-2e03-4c8f-89c6-f53b508e2785"
+}
