@@ -254,12 +254,12 @@
             "width": 150000
         }
     },
-    "manufacturer": "",
+    "manufacturer": "Samtec",
     "models": {},
     "name": "PCIE-036-02-F-D-TH",
     "pads": {
         "0673757b-7092-4a24-a234-4f524f3dfbed": {
-            "name": "41",
+            "name": "M1",
             "padstack": "762c84c2-187d-454a-af81-d3381bec5257",
             "parameter_set": {
                 "hole_diameter": 2350000
@@ -306,7 +306,7 @@
             }
         },
         "20fb2d6d-5da4-4333-a5e3-d8a35c4f2a31": {
-            "name": "40",
+            "name": "M2",
             "padstack": "762c84c2-187d-454a-af81-d3381bec5257",
             "parameter_set": {
                 "hole_diameter": 2350000
@@ -1033,7 +1033,10 @@
             ]
         }
     },
-    "tags": [],
+    "tags": [
+        "connector",
+        "th"
+    ],
     "texts": {
         "95255893-711c-4755-8cd7-a870abba6357": {
             "font": "simplex",
