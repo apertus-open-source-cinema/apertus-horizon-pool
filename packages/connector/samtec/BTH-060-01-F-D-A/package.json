@@ -318,7 +318,7 @@
     "manufacturer": "Samtec",
     "models": {
         "a4be9cfa-4861-41b0-87bb-90860efd3bca": {
-            "filename": "packages/connector/samtec/BTH-060-01-F-D-A/BTH-060-01-F-D-A.stp",
+            "filename": "3d_models/connector/samtec/BTH-060-01-F-D-A/BTH-060-01-F-D-A.stp",
             "pitch": 0,
             "roll": 49152,
             "x": 0,

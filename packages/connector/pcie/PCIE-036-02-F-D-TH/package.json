@@ -68,7 +68,7 @@
         }
     },
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "dd2ae062-5895-409d-bc67-b28b5b02b467",
     "dimensions": {
         "144c4f9b-ba66-4967-8ca6-39efb8aefb5a": {
             "label_distance": 6850000,
@@ -255,7 +255,17 @@
         }
     },
     "manufacturer": "Samtec",
-    "models": {},
+    "models": {
+        "dd2ae062-5895-409d-bc67-b28b5b02b467": {
+            "filename": "3d_models/connector/pcie/PCIE-036-02-F-D-TH/PCIE-036-02-F-D-TH.stp",
+            "pitch": 0,
+            "roll": 49152,
+            "x": 2150000,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        }
+    },
     "name": "PCIE-036-02-F-D-TH",
     "pads": {
         "0673757b-7092-4a24-a234-4f524f3dfbed": {
