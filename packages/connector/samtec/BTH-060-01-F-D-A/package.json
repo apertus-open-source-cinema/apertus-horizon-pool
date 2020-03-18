@@ -68,7 +68,7 @@
         }
     },
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "a4be9cfa-4861-41b0-87bb-90860efd3bca",
     "dimensions": {},
     "junctions": {
         "0a23e742-6f74-4dca-a38f-c48027bf0025": {
@@ -316,7 +316,17 @@
         }
     },
     "manufacturer": "Samtec",
-    "models": {},
+    "models": {
+        "a4be9cfa-4861-41b0-87bb-90860efd3bca": {
+            "filename": "packages/connector/samtec/BTH-060-01-F-D-A/BTH-060-01-F-D-A.stp",
+            "pitch": 0,
+            "roll": 49152,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        }
+    },
     "name": "BTH-060-01-F-D-A",
     "pads": {
         "04f373b3-07f6-47f6-86d8-1563e871e32d": {
