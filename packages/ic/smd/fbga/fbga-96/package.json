@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "4f8df22a-90f9-4f9c-acab-51c9148f8d71",
     "dimensions": {
         "12cb4db4-7d78-4bd3-92ab-53e4e5b9f123": {
             "label_distance": -4300000,
@@ -187,7 +187,17 @@
         }
     },
     "manufacturer": "",
-    "models": {},
+    "models": {
+        "4f8df22a-90f9-4f9c-acab-51c9148f8d71": {
+            "filename": "3d_models/ic/bga/FBGA-96.step",
+            "pitch": 16384,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 150000
+        }
+    },
     "name": "fbga-96",
     "pads": {
         "03444d96-4131-4741-a45a-b02302600674": {
