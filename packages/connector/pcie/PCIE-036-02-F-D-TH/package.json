@@ -1,72 +1,4 @@
 {
-    "_imp": {
-        "grid_spacing": 25000,
-        "layer_display": {
-            "layer_opacity": 50.0,
-            "layers": {
-                "-1": {
-                    "display_mode": "fill",
-                    "visible": false
-                },
-                "-100": {
-                    "display_mode": "fill_only",
-                    "visible": false
-                },
-                "-110": {
-                    "display_mode": "outline",
-                    "visible": false
-                },
-                "-120": {
-                    "display_mode": "fill_only",
-                    "visible": false
-                },
-                "-130": {
-                    "display_mode": "fill",
-                    "visible": false
-                },
-                "-140": {
-                    "display_mode": "outline",
-                    "visible": false
-                },
-                "-150": {
-                    "display_mode": "outline",
-                    "visible": false
-                },
-                "-160": {
-                    "display_mode": "outline",
-                    "visible": false
-                },
-                "0": {
-                    "display_mode": "fill",
-                    "visible": true
-                },
-                "10": {
-                    "display_mode": "outline",
-                    "visible": false
-                },
-                "20": {
-                    "display_mode": "fill_only",
-                    "visible": false
-                },
-                "30": {
-                    "display_mode": "fill",
-                    "visible": false
-                },
-                "40": {
-                    "display_mode": "outline",
-                    "visible": false
-                },
-                "50": {
-                    "display_mode": "outline",
-                    "visible": false
-                },
-                "60": {
-                    "display_mode": "outline",
-                    "visible": true
-                }
-            }
-        }
-    },
     "arcs": {},
     "default_model": "dd2ae062-5895-409d-bc67-b28b5b02b467",
     "dimensions": {
@@ -1048,7 +980,7 @@
         "th"
     ],
     "texts": {
-        "95255893-711c-4755-8cd7-a870abba6357": {
+        "061638ed-4b5b-4a3e-b3dc-168086b975ed": {
             "font": "simplex",
             "from_smash": false,
             "layer": 50,
@@ -1057,8 +989,8 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    11700000,
-                    6000000
+                    11975000,
+                    6275000
                 ]
             },
             "size": 1000000,
