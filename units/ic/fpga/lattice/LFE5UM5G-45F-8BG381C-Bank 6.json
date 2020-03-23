@@ -118,7 +118,9 @@
         },
         "7cb389f6-9cc5-4c5b-889f-89e7852cd2eb": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "LDQSN65"
+            ],
             "primary_name": "PL65B",
             "swap_group": 0
         },
@@ -130,7 +132,9 @@
         },
         "945e4e6a-01eb-44a2-91dc-bfbd537f323f": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "LDQS41"
+            ],
             "primary_name": "PL41A",
             "swap_group": 0
         },
@@ -154,13 +158,17 @@
         },
         "a961c035-205d-42e0-89a1-0961cd8b1efc": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "LDQSN41"
+            ],
             "primary_name": "PL41B",
             "swap_group": 0
         },
         "a9e774df-f552-495f-ac8b-5e11531099dc": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "LDQS65"
+            ],
             "primary_name": "PL65A",
             "swap_group": 0
         },
@@ -208,7 +216,9 @@
         },
         "d4967c4f-211f-4e07-aab4-e1c13599426b": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "LDQS53"
+            ],
             "primary_name": "PL53A",
             "swap_group": 0
         },

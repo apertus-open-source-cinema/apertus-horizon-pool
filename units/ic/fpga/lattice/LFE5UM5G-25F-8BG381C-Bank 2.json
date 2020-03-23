@@ -12,7 +12,9 @@
         },
         "02f38c64-959a-4d08-a012-c29fdbc36262": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "RDQSN8"
+            ],
             "primary_name": "PR8B",
             "swap_group": 0
         },
@@ -74,7 +76,9 @@
         },
         "54f67b20-5800-47b9-9fa1-99ba8a9e4dc7": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "RDQS8"
+            ],
             "primary_name": "PR8A",
             "swap_group": 0
         },
@@ -115,7 +119,8 @@
         "7864ba14-b436-4d86-be41-0e6d4d451390": {
             "direction": "bidirectional",
             "names": [
-                "GR_PCLK2_1"
+                "GR_PCLK2_1",
+                "RDQS20"
             ],
             "primary_name": "PR20A",
             "swap_group": 0
@@ -166,7 +171,9 @@
         },
         "bf2b444c-3675-40d4-90ad-2dc6daec3520": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "RDQNS20"
+            ],
             "primary_name": "PR20B",
             "swap_group": 0
         },

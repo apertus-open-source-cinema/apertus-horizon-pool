@@ -84,13 +84,17 @@
         },
         "74220c8a-aaf2-450a-a966-8486ef2d2403": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "RDQSN65"
+            ],
             "primary_name": "PR65B",
             "swap_group": 0
         },
         "7df673d2-051e-4dc8-82f7-27292d66de02": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "RDQS53"
+            ],
             "primary_name": "PR53A",
             "swap_group": 0
         },
@@ -110,7 +114,9 @@
         },
         "a2043399-33bb-420e-8d1f-bd8094429d2e": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "RDQS65"
+            ],
             "primary_name": "PR65A",
             "swap_group": 0
         },
@@ -150,7 +156,9 @@
         },
         "b7decd22-d512-4c96-9dc6-7456ee6d11ab": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "RDQS41"
+            ],
             "primary_name": "PR41A",
             "swap_group": 0
         },
@@ -214,7 +222,9 @@
         },
         "f6495361-9fbd-4752-80f2-5f2dae553c29": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "RDQSN41"
+            ],
             "primary_name": "PR41B",
             "swap_group": 0
         }

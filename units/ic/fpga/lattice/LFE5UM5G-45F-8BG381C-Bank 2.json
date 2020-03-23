@@ -10,7 +10,9 @@
         },
         "119bbb44-86a3-4ccf-b05f-e8ac8be3dfad": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "RDQS17"
+            ],
             "primary_name": "PR17A",
             "swap_group": 0
         },
@@ -31,7 +33,8 @@
         "46cf6c81-9de5-4843-9fa3-d91b789fd811": {
             "direction": "bidirectional",
             "names": [
-                "GR_PCLK2_1"
+                "GR_PCLK2_1",
+                "RDQS29"
             ],
             "primary_name": "PR29A",
             "swap_group": 0
@@ -196,13 +199,17 @@
         },
         "d2165ef9-15dc-4a47-8dd8-f06de5c6e10e": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "RDQSN29"
+            ],
             "primary_name": "PR29B",
             "swap_group": 0
         },
         "d35f1a04-9b52-44ee-aeb7-dc5de814c621": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "RDQSN17"
+            ],
             "primary_name": "PR17B",
             "swap_group": 0
         },

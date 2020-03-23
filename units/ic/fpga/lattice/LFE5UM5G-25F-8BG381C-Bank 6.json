@@ -22,7 +22,9 @@
         },
         "2b07a83a-0270-4bb6-8d01-175b0b5cffb6": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "LDQSN44"
+            ],
             "primary_name": "PL44B",
             "swap_group": 0
         },
@@ -48,7 +50,9 @@
         },
         "4462296b-8ef7-4399-b459-a3087d8adc18": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "LDQS32"
+            ],
             "primary_name": "PL32A",
             "swap_group": 0
         },
@@ -142,13 +146,17 @@
         },
         "c0f3b325-7e29-4a59-8717-2cd4f69ebcf5": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "LDQSN32"
+            ],
             "primary_name": "PL32B",
             "swap_group": 0
         },
         "c5f7583f-e6e8-497e-92dd-ad13ad106bd7": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "LDQS44"
+            ],
             "primary_name": "PL44A",
             "swap_group": 0
         },

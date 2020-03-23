@@ -28,7 +28,9 @@
         },
         "2be8828c-1528-44a0-bcc5-08b0d73c13bf": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "LDQSN17"
+            ],
             "primary_name": "PL17B",
             "swap_group": 0
         },
@@ -66,14 +68,17 @@
         },
         "51168e1d-2766-4cca-9f55-70fc49036fb7": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "LDQS17"
+            ],
             "primary_name": "PL17A",
             "swap_group": 0
         },
         "51e91e3c-8f99-4bfb-8c5e-d1d8a6154eb6": {
             "direction": "bidirectional",
             "names": [
-                "GR_PCLK7_1"
+                "GR_PCLK7_1",
+                "LDQS29"
             ],
             "primary_name": "PL29A",
             "swap_group": 0
@@ -158,7 +163,9 @@
         },
         "c48e8f73-e660-4df6-b825-65b474986572": {
             "direction": "bidirectional",
-            "names": [],
+            "names": [
+                "LDQSN29"
+            ],
             "primary_name": "PL29B",
             "swap_group": 0
         },
