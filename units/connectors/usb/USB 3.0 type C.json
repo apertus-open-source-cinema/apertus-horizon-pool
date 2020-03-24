@@ -3,7 +3,7 @@
     "name": "USB 3.0 type C",
     "pins": {
         "2413d421-3247-403c-9cc8-9f462401118d": {
-            "direction": "power_input",
+            "direction": "power_output",
             "names": [],
             "primary_name": "Vbus",
             "swap_group": 0
@@ -93,9 +93,9 @@
             "swap_group": 0
         },
         "d7a14aa6-8fcc-45ae-9dc8-2e1c12457f95": {
-            "direction": "power_input",
+            "direction": "input",
             "names": [],
-            "primary_name": "SSSRXp1",
+            "primary_name": "SSRXp1",
             "swap_group": 0
         },
         "dc1050b4-5a53-4342-9a5e-9c75d3d35008": {
