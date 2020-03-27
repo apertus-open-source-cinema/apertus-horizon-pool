@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "f7639ee2-e3da-441f-915f-94c62f1ba9eb",
     "dimensions": {},
     "junctions": {
         "23aa168e-e4eb-441b-a9a3-a9350dd436b8": {
@@ -116,7 +116,17 @@
         }
     },
     "manufacturer": "",
-    "models": {},
+    "models": {
+        "f7639ee2-e3da-441f-915f-94c62f1ba9eb": {
+            "filename": "3d_models/ic/qfn/RGZ0048B.stp",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        }
+    },
     "name": "VQFN-48",
     "pads": {
         "08dd8a93-35de-4e00-bcc6-dcf9f086cde5": {
