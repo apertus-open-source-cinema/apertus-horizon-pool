@@ -1,0 +1,19 @@
+{
+    "arcs": {},
+    "default_model": "00000000-0000-0000-0000-000000000000",
+    "dimensions": {},
+    "junctions": {},
+    "keepouts": {},
+    "lines": {},
+    "manufacturer": "",
+    "models": {},
+    "name": "",
+    "pads": {},
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {},
+    "tags": [],
+    "texts": {},
+    "type": "package",
+    "uuid": "dc1365cf-db36-4e87-bec7-d0c962d78d99"
+}
