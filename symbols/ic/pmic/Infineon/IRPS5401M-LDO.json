@@ -150,15 +150,15 @@
             "layer": 0,
             "origin": "center",
             "placement": {
-                "angle": 0,
+                "angle": 32768,
                 "mirror": false,
                 "shift": [
-                    10000000,
+                    12500000,
                     8750000
                 ]
             },
             "size": 1500000,
-            "text": "4A",
+            "text": "500mA",
             "width": 0
         },
         "c9f6ffeb-1499-4feb-9457-5d2c106df24e": {
