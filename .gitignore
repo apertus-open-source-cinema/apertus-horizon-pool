@@ -1,0 +1,8 @@
+*.db
+*.db-shm
+*.db-wal
+.gdb_history
+tmp/*.json
+3d_models/local
+**/__pycache__
+*.imp_meta
