@@ -1,0 +1,133 @@
+{
+    "MPN": [
+        false,
+        "5P49V6965"
+    ],
+    "datasheet": [
+        false,
+        "https://www.idt.com/document/dst/5p49v6965-datasheet"
+    ],
+    "description": [
+        false,
+        "VersaClock 6E Programmable Clock Generator"
+    ],
+    "entity": "44200094-02ff-41b3-86d3-53788fc0c494",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "IDT"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "8661ac8f-ae56-473f-adbf-ebc29a8f0f86",
+    "pad_map": {
+        "04b12da5-dd01-431a-8f0a-e9eea7fe7196": {
+            "gate": "c3ec828d-68e2-4706-b307-246d4cd46a45",
+            "pin": "b7a48a9f-0c77-41b4-a7fb-b0e679e45127"
+        },
+        "13db9c5d-ffd7-409b-82dd-7f5bbf0a3491": {
+            "gate": "c3ec828d-68e2-4706-b307-246d4cd46a45",
+            "pin": "079c3949-99ce-4a92-a4ba-197945d69b22"
+        },
+        "1da996d7-06b2-4968-8bdf-effc3da03a78": {
+            "gate": "c3ec828d-68e2-4706-b307-246d4cd46a45",
+            "pin": "22251221-d07b-4f0a-8381-1657a44be55a"
+        },
+        "41a7f148-45b5-4973-a638-0300a7758e07": {
+            "gate": "c3ec828d-68e2-4706-b307-246d4cd46a45",
+            "pin": "e775fe7d-1d8b-4845-95b3-2cb337ff62d8"
+        },
+        "541208b5-e302-4302-aa1e-79dfcc471e9c": {
+            "gate": "c3ec828d-68e2-4706-b307-246d4cd46a45",
+            "pin": "a16d9711-f9b6-4b06-a2d1-3ab3eb6d4da8"
+        },
+        "55648ed9-fc43-4f0a-8d81-f739c1cf6a15": {
+            "gate": "c3ec828d-68e2-4706-b307-246d4cd46a45",
+            "pin": "fd0b0e27-e87d-4b2c-8763-8a813cdedd21"
+        },
+        "684b482a-2d84-4e68-ae4a-123efab365f3": {
+            "gate": "c3ec828d-68e2-4706-b307-246d4cd46a45",
+            "pin": "32621c36-8345-4085-aa62-52bdfdc45140"
+        },
+        "69658635-72d5-44f5-ae62-3a2190d02b39": {
+            "gate": "c3ec828d-68e2-4706-b307-246d4cd46a45",
+            "pin": "30471d2a-184e-4640-a94a-71a03e81f735"
+        },
+        "6d4923e8-e51a-4ee9-8493-547a8b3dfb07": {
+            "gate": "c3ec828d-68e2-4706-b307-246d4cd46a45",
+            "pin": "cc0972f1-951a-451d-8294-653b8b4d6b8e"
+        },
+        "77df1d87-1ef8-480c-b560-ab911a51ef01": {
+            "gate": "c3ec828d-68e2-4706-b307-246d4cd46a45",
+            "pin": "125590f2-e366-4777-a272-a47afb294559"
+        },
+        "7a8cd226-4b33-4747-832b-aa5f9180035c": {
+            "gate": "c3ec828d-68e2-4706-b307-246d4cd46a45",
+            "pin": "c6fb6e43-b06f-44c4-af95-417a83dc7d25"
+        },
+        "819471f4-0331-4582-8ce5-416e6a006b1f": {
+            "gate": "c3ec828d-68e2-4706-b307-246d4cd46a45",
+            "pin": "01176354-7be1-4dd4-a545-9df1fa145f10"
+        },
+        "8365cb03-ad79-41f8-8894-1b3a7f048338": {
+            "gate": "c3ec828d-68e2-4706-b307-246d4cd46a45",
+            "pin": "eb35c800-0d87-49ef-9c6f-fde1256e71a4"
+        },
+        "8b01f81e-04ec-4e84-b2ca-4b3455c1d9f9": {
+            "gate": "c3ec828d-68e2-4706-b307-246d4cd46a45",
+            "pin": "8e449ba6-1c55-4164-8ef6-bd608ac024db"
+        },
+        "8fdb5d19-e957-4c0d-a9b3-fd598010dfee": {
+            "gate": "c3ec828d-68e2-4706-b307-246d4cd46a45",
+            "pin": "78d0017c-4ff5-4e6b-ace1-1df50fcfdb7a"
+        },
+        "9adf62e1-95b5-4514-85a9-9de5049f4a78": {
+            "gate": "c3ec828d-68e2-4706-b307-246d4cd46a45",
+            "pin": "8e7cea81-78e3-491e-8b50-2b5b807c1ea4"
+        },
+        "a283b82e-604a-4db0-9dbd-f108ca64793d": {
+            "gate": "c3ec828d-68e2-4706-b307-246d4cd46a45",
+            "pin": "e987d9ab-9e1c-4c70-ba79-d30f8baaf5f7"
+        },
+        "aef7e9ec-9caa-4f38-bc8c-95654e7bd37d": {
+            "gate": "c3ec828d-68e2-4706-b307-246d4cd46a45",
+            "pin": "ad386040-062d-4963-83b6-ef3c3dadbded"
+        },
+        "bb660313-5d84-47b8-8175-96cf0f719cf3": {
+            "gate": "c3ec828d-68e2-4706-b307-246d4cd46a45",
+            "pin": "76052685-8404-472b-bf42-3d39076821cf"
+        },
+        "bf849275-f4c7-4abf-927b-89506063babb": {
+            "gate": "c3ec828d-68e2-4706-b307-246d4cd46a45",
+            "pin": "34ebf1df-820f-4492-bef0-51c09bc43c5c"
+        },
+        "c740683b-acad-4312-94ab-69d1d0345d1f": {
+            "gate": "c3ec828d-68e2-4706-b307-246d4cd46a45",
+            "pin": "033d795f-048d-4295-abaa-c86122fc2e29"
+        },
+        "d0e2f61c-ce6d-48c3-94c8-af024d75e700": {
+            "gate": "c3ec828d-68e2-4706-b307-246d4cd46a45",
+            "pin": "3abee37f-97ca-4ea6-8151-f23e9329e34d"
+        },
+        "e26bbb6a-86c8-4532-ab41-1d77fb2608ae": {
+            "gate": "c3ec828d-68e2-4706-b307-246d4cd46a45",
+            "pin": "ca76d9ce-a5a7-46e8-921a-2e4404713053"
+        },
+        "e7cf89d6-00fa-4404-842f-8676c21c3ca1": {
+            "gate": "c3ec828d-68e2-4706-b307-246d4cd46a45",
+            "pin": "0cef3bbc-9fc7-4a49-a08e-2fe08426c970"
+        },
+        "eaf82134-af25-40ea-ba48-7c2088d05310": {
+            "gate": "c3ec828d-68e2-4706-b307-246d4cd46a45",
+            "pin": "7cd49b68-76be-43c3-bb77-e19cf62c7510"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "ed196596-73de-4984-9099-240899db5a17",
+    "value": [
+        false,
+        ""
+    ]
+}

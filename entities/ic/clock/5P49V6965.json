@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "c3ec828d-68e2-4706-b307-246d4cd46a45": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "8e6dd5c1-08e8-4f7f-b12a-4936b850587e"
+        }
+    },
+    "manufacturer": "IDT",
+    "name": "5P49V6965",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "44200094-02ff-41b3-86d3-53788fc0c494"
+}
