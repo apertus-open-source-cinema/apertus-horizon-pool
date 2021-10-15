@@ -1,0 +1,10 @@
+{
+    "default_via": "00000000-0000-0000-0000-000000000000",
+    "name": "Extra components used in apertus projects",
+    "pools_included": [
+        "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6",
+        "71c48295-6a54-4cfb-a7f6-8c867bbbfcc4"
+    ],
+    "type": "pool",
+    "uuid": "b3433dbd-9136-46d0-b518-461cf3a8b1ab"
+}
